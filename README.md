@@ -1,7 +1,7 @@
 # ASM Intro to Data Science workshop
-## Prep materials
+## Materials
 
-Prep materials for the Actuarial Society of Malaysia "Intro to Data Science" workshops
+Materials for the Actuarial Society of Malaysia "Intro to Data Science" workshops
 
 @author Will Yap 
 @author Nadav Rindler @nrindler
